@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+if __name__ == "__main__":
+
 n, i, m, g, gg = 0, 0, 0, 0, 0
 
 n = int(input())
