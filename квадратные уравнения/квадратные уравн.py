@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 from math import sqrt
 
 if __name__ == "__main__":
