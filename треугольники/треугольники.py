@@ -1,5 +1,10 @@
+<<<<<<< HEAD:треугольники/треугольники.py
 # !/usr/bin/env python3
 # -*- encoding: utf-8 -*-
+=======
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+>>>>>>> d1c43b1ea9b75862a4f3fc30f4652c66c0e9126e:треугольники/main.py
 
 if __name__ == "__main__":
 
